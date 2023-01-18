@@ -1,0 +1,23 @@
+.navbar, .contein{ background-color: #002f73; }
+.navbar, .footer{ height: 40%; }
+input{
+  border-radius: 27px;
+  height: 47px;
+}
+p{ color: #d4d6e3; text-align: center; font-size: 21px;}
+.guardarModal{
+  background-color: #00ad44;
+  color: white;
+  width: 284px;
+  height: 48px;
+  border-radius: 37px;
+  margin-left: 42px;
+  margin-top: 4%;
+}
+h6{
+  color: white;
+  margin-top: 5%;
+  margin-left: 23%;
+  font-size: 20px;
+}
+h4{ font-size: 21px; }
